@@ -10,7 +10,7 @@ export default function Header() {
         <a href="index.html">
           <img
             src="/images/logo.png"
-            alt="Hair Salon Website Templates Free Download"
+            alt="Hair Salon Website Templates Free Download and hair salan"
           />
         </a>
       </div>
